@@ -1,0 +1,21 @@
+body {background-color: '#efeee7ue';}
+body {
+    padding: 0;
+    margin: 0;
+    font-family: Georgia, "Times New Roman"
+  }
+  #main-bio,
+  #contact-info,
+  #bio-image {
+      float: left
+    }
+
+   #main-bio {
+       width: 70px
+   } 
+
+   h2 {
+       font-size: 24px
+   }
+
+   a {color #}
